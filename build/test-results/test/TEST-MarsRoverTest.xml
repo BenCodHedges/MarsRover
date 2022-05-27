@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MarsRoverTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2022-05-25T13:20:32" hostname="REALMSPC" time="0.13">
+  <properties/>
+  <testcase name="[1] M, 0:1:N" classname="MarsRoverTest" time="0.07"/>
+  <testcase name="[2] MM, 0:2:N" classname="MarsRoverTest" time="0.001"/>
+  <testcase name="[3] MMMMMMMMMM, 0:10:N" classname="MarsRoverTest" time="0.001"/>
+  <testcase name="[4] MMMMMMMMMMM, 0:0:N" classname="MarsRoverTest" time="0.001"/>
+  <testcase name="[5] MMMMMMMMMMMM, 0:1:N" classname="MarsRoverTest" time="0.001"/>
+  <testcase name="[1] R, 0:0:E" classname="MarsRoverTest" time="0.002"/>
+  <testcase name="[2] RR, 0:0:S" classname="MarsRoverTest" time="0.001"/>
+  <testcase name="[3] RRR, 0:0:W" classname="MarsRoverTest" time="0.002"/>
+  <testcase name="[4] RRRR, 0:0:N" classname="MarsRoverTest" time="0.001"/>
+  <testcase name="[1] RM, 1:0:E" classname="MarsRoverTest" time="0.002"/>
+  <testcase name="Should return a generated 10x10 matrix grid" classname="MarsRoverTest" time="0.003"/>
+  <testcase name="Should give the mars rover an X Y Co-ordinate" classname="MarsRoverTest" time="0.001"/>
+  <testcase name="[1] L, 0:0:W" classname="MarsRoverTest" time="0.001"/>
+  <testcase name="[2] LL, 0:0:S" classname="MarsRoverTest" time="0.001"/>
+  <testcase name="[3] LLL, 0:0:E" classname="MarsRoverTest" time="0.001"/>
+  <testcase name="[4] LLLL, 0:0:N" classname="MarsRoverTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
